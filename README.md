@@ -1,4 +1,5 @@
-# Scientific-Data-Analysis
+Scientific-Data-Analysis
+
 f=open('results.txt','r')
 exprNum = f.readline()
 exprNum = exprNum.split(' ')
